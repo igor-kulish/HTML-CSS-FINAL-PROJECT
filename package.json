@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Nikolaylyah.github.io/parcel-project-template",
+  "homepage": "https://igor-kulish.github.io/parcel-project-template",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-final/"
+    "build": "parcel build src/*.html --public-url /HTML-CSS-FINAL-PROJECT/"
   },
   "repository": {
     "type": "git",
